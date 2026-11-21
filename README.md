@@ -16,4 +16,4 @@ Koleksi alat HTML satu fail untuk PdPc Matematik Tingkatan 1. Setiap alat berjal
 | [Geometri Dinamik: Segi Tiga & Sisi Empat](geometri-segi-tiga-sisi-empat/) | Poligon |
 | [Peneroka Fungsi Linear y = mx + c](peneroka-fungsi-linear/) | Fungsi linear |
 
-Dibina oleh Cg Din (Wan Mohd Aizuddin bin Che Mat), guru Matematik. Bebas digunakan untuk tujuan pendidikan.
+Dibina oleh JURULETIH. Bebas digunakan untuk tujuan pendidikan.
